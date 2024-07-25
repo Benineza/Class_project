@@ -27,7 +27,7 @@ Car car1;
 car1.brand="toyota";
 car1.model="carina";
 car1.year=1867;
-car1.displayInfo();
+car1.displayInfo();//going to display information of the cars
 
 }
 
